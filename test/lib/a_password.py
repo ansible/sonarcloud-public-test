@@ -3,3 +3,5 @@ def sensitive(password: str) -> None:
 
 
 sensitive('a password')
+
+password = 'password'
