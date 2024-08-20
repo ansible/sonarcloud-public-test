@@ -1,6 +1,3 @@
-print("boom")
-print("boom 2")
-
 # FIXME: this is a FIXME
 password = 'super secret'
 
