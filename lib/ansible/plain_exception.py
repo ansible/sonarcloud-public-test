@@ -7,5 +7,8 @@ def do_stuff(pwd: str) -> None:
 
 do_stuff(password)
 
+assert tuple()
+assert (1, 2)
+
 # TODO: this is a TODO
 raise Exception()
