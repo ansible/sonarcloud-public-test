@@ -1,3 +1,5 @@
+print("boom")
+
 # FIXME: this is a FIXME
 password = 'super secret'
 
